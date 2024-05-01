@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amin farhadi</h1>
-<h3 align="center">A passionate frontend developer from iran</h3>
+<h3 align="center">A passionate full stack developer from iran</h3>
 
 - 🔭 I’m currently working on **personal startup**
 
